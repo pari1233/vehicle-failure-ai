@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Environment variables
+.env
+
+# Large / binary artifacts (optional)
+# Uncomment if allows re-training instead of loading
+# models/*.joblib
